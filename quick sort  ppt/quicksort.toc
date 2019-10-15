@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{快速排序的定义和优点}{2}{0}{1}
+\beamer@sectionintoc {2}{快速排序的基本思想}{2}{0}{2}
+\beamer@sectionintoc {3}{快速排序的流程}{3}{0}{3}
+\beamer@sectionintoc {4}{快速排序的小技巧}{5}{0}{4}
+\beamer@sectionintoc {5}{快速排序的源代码}{6}{0}{5}
+\beamer@sectionintoc {6}{课堂小测试}{7}{0}{6}

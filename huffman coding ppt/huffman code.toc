@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{引言}{2}{0}{1}
+\beamer@sectionintoc {2}{哈夫曼二叉树构建}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{初始队列}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{第一步合并}{3}{0}{2}
+\beamer@subsectionintoc {2}{3}{重新调整队列}{4}{0}{2}
+\beamer@subsectionintoc {2}{4}{哈夫曼编码}{7}{0}{2}
+\beamer@subsectionintoc {2}{5}{字符串编码}{8}{0}{2}
+\beamer@sectionintoc {3}{补充}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{哈夫曼编码练习题}{9}{0}{3}

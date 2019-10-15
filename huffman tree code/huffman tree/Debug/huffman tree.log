@@ -1,0 +1,14 @@
+﻿  huffman tree.cpp
+F:\程序训练\huffman tree\huffman tree\huffman tree.h(62,6): warning C4101:  “j”: 未引用的局部变量
+F:\程序训练\huffman tree\huffman tree\huffman tree.h(61): message :  在编译 类 模板 成员函数“void huffman<int>::creat(T [],int)”时
+F:\程序训练\huffman tree\huffman tree\huffman tree.h(61): message :         with
+F:\程序训练\huffman tree\huffman tree\huffman tree.h(61): message :         [
+F:\程序训练\huffman tree\huffman tree\huffman tree.h(61): message :             T=int
+F:\程序训练\huffman tree\huffman tree\huffman tree.h(61): message :         ]
+F:\程序训练\huffman tree\huffman tree\huffman tree.cpp(7): message :  查看对正在编译的函数 模板 实例化“void huffman<int>::creat(T [],int)”的引用
+F:\程序训练\huffman tree\huffman tree\huffman tree.cpp(7): message :         with
+F:\程序训练\huffman tree\huffman tree\huffman tree.cpp(7): message :         [
+F:\程序训练\huffman tree\huffman tree\huffman tree.cpp(7): message :             T=int
+F:\程序训练\huffman tree\huffman tree\huffman tree.cpp(7): message :         ]
+F:\程序训练\huffman tree\huffman tree\huffman tree.cpp(5): message :  查看对正在编译的 类 模板 实例化“huffman<int>”的引用
+  huffman tree.vcxproj -> F:\程序训练\huffman tree\Debug\huffman tree.exe
